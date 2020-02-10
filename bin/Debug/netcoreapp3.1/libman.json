@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [{
+  "library": "Trumbowyg@2.20.0",
+  "destination": "wwwroot/Trumbowyg/"
+}
+]
+}
